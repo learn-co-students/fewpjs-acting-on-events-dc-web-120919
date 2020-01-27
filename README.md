@@ -105,6 +105,7 @@ document.addEventListener("keydown", function(e) {
 });
 ```
 
+
 Entering the above in our console, if we now click on the window (where the
 dodger is rendered) and press the left arrow key, we should see our console
 log `ArrowLeft` events. You can try it with other keys (`Shift`, `Control`,
